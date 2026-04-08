@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.tgz
+# 脚本输出的临时数据（含个人信息）
+scripts/*.json
+scripts/*.csv
+scripts/*.log
+
+# Claude Code local config (personal, not shared)
+CLAUDE.local.md
+
+# 简历原件存储目录
+storage/

@@ -1,0 +1,3107 @@
+[
+  {
+    "name": "Massachusetts Institute of Technology",
+    "aliases": ["MIT", "マサチューセッツ工科大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 1,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Imperial College London",
+    "aliases": ["Imperial", "ICL", "インペリアル・カレッジ・ロンドン"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 2,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Oxford",
+    "aliases": ["Oxford", "オックスフォード大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 3,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Harvard University",
+    "aliases": ["Harvard", "ハーバード大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 4,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Cambridge",
+    "aliases": ["Cambridge", "ケンブリッジ大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 5,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Stanford University",
+    "aliases": ["Stanford", "スタンフォード大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 6,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "ETH Zurich",
+    "aliases": ["ETH", "Swiss Federal Institute of Technology Zurich", "チューリッヒ工科大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 7,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "National University of Singapore",
+    "aliases": ["NUS", "シンガポール国立大学"],
+    "country": "SG",
+    "domesticTag": null,
+    "qsRank": 8,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "UCL",
+    "aliases": ["University College London", "ユニバーシティ・カレッジ・ロンドン"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 9,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "California Institute of Technology",
+    "aliases": ["Caltech", "カリフォルニア工科大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 10,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Pennsylvania",
+    "aliases": ["UPenn", "Penn", "ペンシルベニア大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 11,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Edinburgh",
+    "aliases": ["Edinburgh", "エジンバラ大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 12,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Nanyang Technological University",
+    "aliases": ["NTU", "南洋理工大学", "ナンヤン工科大学"],
+    "country": "SG",
+    "domesticTag": null,
+    "qsRank": 13,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Yale University",
+    "aliases": ["Yale", "イェール大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 14,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Columbia University",
+    "aliases": ["Columbia", "コロンビア大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 15,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Cornell University",
+    "aliases": ["Cornell", "コーネル大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 16,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The University of Chicago",
+    "aliases": ["UChicago", "Chicago", "シカゴ大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 17,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The University of Melbourne",
+    "aliases": ["UniMelb", "Melbourne", "メルボルン大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 18,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Peking University",
+    "aliases": ["PKU", "北京大学", "北大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 17,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Johns Hopkins University",
+    "aliases": ["JHU", "Johns Hopkins", "ジョンズ・ホプキンス大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 19,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tsinghua University",
+    "aliases": ["清華大学", "清华大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 20,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Toronto",
+    "aliases": ["UofT", "UToronto", "トロント大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 21,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "EPFL",
+    "aliases": ["École Polytechnique Fédérale de Lausanne", "ローザンヌ工科大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 22,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The University of Sydney",
+    "aliases": ["USYD", "Sydney", "シドニー大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 23,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of New South Wales",
+    "aliases": ["UNSW", "ニューサウスウェールズ大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 24,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The University of Tokyo",
+    "aliases": ["東京大学", "東大", "UTokyo", "Tokyo Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 28,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "McGill University",
+    "aliases": ["McGill", "マギル大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 29,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Princeton University",
+    "aliases": ["Princeton", "プリンストン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 25,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of California, Berkeley",
+    "aliases": ["UC Berkeley", "Berkeley", "カリフォルニア大学バークレー校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 27,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The University of Manchester",
+    "aliases": ["UoM", "Manchester", "マンチェスター大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 34,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Seoul National University",
+    "aliases": ["SNU", "ソウル国立大学", "서울대학교"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 31,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Fudan University",
+    "aliases": ["复旦大学", "復旦大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 39,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Hong Kong",
+    "aliases": ["HKU", "香港大学", "香港大學"],
+    "country": "HK",
+    "domesticTag": null,
+    "qsRank": 36,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The Hong Kong University of Science and Technology",
+    "aliases": ["HKUST", "香港科技大学", "香港科技大學"],
+    "country": "HK",
+    "domesticTag": null,
+    "qsRank": 47,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kyoto University",
+    "aliases": ["京都大学", "京大", "KyotoU", "Kyoto Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 46,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "King's College London",
+    "aliases": ["KCL", "Kings College London", "キングス・カレッジ・ロンドン"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 40,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Monash University",
+    "aliases": ["Monash", "モナッシュ大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 37,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "London School of Economics and Political Science",
+    "aliases": ["LSE", "ロンドン・スクール・オブ・エコノミクス"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 50,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of British Columbia",
+    "aliases": ["UBC", "ブリティッシュコロンビア大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 38,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Zhejiang University",
+    "aliases": ["ZJU", "浙江大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 44,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of California, Los Angeles",
+    "aliases": ["UCLA", "カリフォルニア大学ロサンゼルス校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 44,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "New York University",
+    "aliases": ["NYU", "ニューヨーク大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 43,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Duke University",
+    "aliases": ["Duke", "デューク大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 49,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Michigan State University",
+    "aliases": ["MSU", "ミシガン州立大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 113,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Delft University of Technology",
+    "aliases": ["TU Delft", "デルフト工科大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 51,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "The Chinese University of Hong Kong",
+    "aliases": ["CUHK", "香港中文大学", "香港中文大學"],
+    "country": "HK",
+    "domesticTag": null,
+    "qsRank": 52,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Osaka University",
+    "aliases": ["大阪大学", "阪大", "OsakaU", "Osaka Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 67,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tokyo Institute of Technology",
+    "aliases": ["東京工業大学", "東工大", "Tokyo Tech", "TokyoTech"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 65,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tohoku University",
+    "aliases": ["東北大学", "東北大", "TohokuU", "Tohoku Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 76,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Warwick",
+    "aliases": ["Warwick", "ウォーリック大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 69,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Glasgow",
+    "aliases": ["Glasgow", "グラスゴー大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 73,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Korea Advanced Institute of Science and Technology",
+    "aliases": ["KAIST", "한국과학기술원", "韓国科学技術院"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 63,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Amsterdam",
+    "aliases": ["UvA", "アムステルダム大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 58,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Technical University of Munich",
+    "aliases": ["TUM", "TU Munich", "ミュンヘン工科大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 53,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ludwig Maximilian University of Munich",
+    "aliases": ["LMU Munich", "LMU", "ミュンヘン大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 59,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Université Paris-Saclay",
+    "aliases": ["Paris-Saclay", "パリ＝サクレー大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 76,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "KU Leuven",
+    "aliases": ["Catholic University of Leuven", "ルーヴェン・カトリック大学"],
+    "country": "BE",
+    "domesticTag": null,
+    "qsRank": 67,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bristol",
+    "aliases": ["Bristol", "ブリストル大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 54,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Queensland University of Technology",
+    "aliases": ["QUT", "クイーンズランド工科大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 213,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Queensland",
+    "aliases": ["UQ", "クイーンズランド大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 40,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "aliases": ["CMU", "カーネギーメロン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 52,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Nagoya University",
+    "aliases": ["名古屋大学", "名大", "NagoyaU", "Nagoya Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 118,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Hokkaido University",
+    "aliases": ["北海道大学", "北大", "HokkaidoU", "Hokudai"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 137,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kyushu University",
+    "aliases": ["九州大学", "九大", "KyushuU", "Kyushu Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 197,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Tsukuba",
+    "aliases": ["筑波大学", "筑波大", "Tsukuba", "Tsukuba Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 298,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Keio University",
+    "aliases": ["慶應義塾大学", "慶應", "Keio", "Keio Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 189,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Waseda University",
+    "aliases": ["早稲田大学", "早稲田", "早大", "Waseda", "Waseda Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 208,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kobe University",
+    "aliases": ["神戸大学", "神大", "KobeU", "Kobe Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 363,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Hiroshima University",
+    "aliases": ["広島大学", "広大", "HiroshimaU", "Hiroshima Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tokyo Medical and Dental University",
+    "aliases": ["東京医科歯科大学", "医歯大", "TMDU", "Tokyo Ika Shika"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kanazawa University",
+    "aliases": ["金沢大学", "金大", "KanazawaU"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 651,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Okayama University",
+    "aliases": ["岡山大学", "岡大", "OkayamaU"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Chiba University",
+    "aliases": ["千葉大学", "千葉大", "ChibaU", "Chiba Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Osaka Metropolitan University",
+    "aliases": ["大阪公立大学", "大阪公大", "OMU"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 551,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tokyo University of Science",
+    "aliases": ["東京理科大学", "理科大", "TUS", "Tokyo Rika"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 651,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ritsumeikan University",
+    "aliases": ["立命館大学", "立命館", "Ritsumeikan"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 701,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Meiji University",
+    "aliases": ["明治大学", "明大", "Meiji", "Meiji Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sophia University",
+    "aliases": ["上智大学", "上智", "Sophia", "Jochi Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tokyo University of Foreign Studies",
+    "aliases": ["東京外国語大学", "外語大", "TUFS", "Tokyo Gaigo"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 751,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "International Christian University",
+    "aliases": ["国際基督教大学", "ICU", "国際基督教"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 701,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Doshisha University",
+    "aliases": ["同志社大学", "同志社", "Doshisha"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 901,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Yokohama National University",
+    "aliases": ["横浜国立大学", "横国", "YNU", "Yokohama Kokuritsu"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kumamoto University",
+    "aliases": ["熊本大学", "熊大", "KumamotoU"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 701,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Nara Institute of Science and Technology",
+    "aliases": ["奈良先端科学技術大学院大学", "NAIST", "奈良先端大"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Japan Advanced Institute of Science and Technology",
+    "aliases": ["北陸先端科学技術大学院大学", "JAIST", "北陸先端大"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 701,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kwansei Gakuin University",
+    "aliases": ["関西学院大学", "関学", "Kwansei Gakuin"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 1001,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Osaka City University",
+    "aliases": ["大阪市立大学", "市大", "OCU"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kansai University",
+    "aliases": ["関西大学", "関大", "Kansai Daigaku"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 1001,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Nagoya Institute of Technology",
+    "aliases": ["名古屋工業大学", "名工大", "NIT Nagoya"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Electro-Communications",
+    "aliases": ["電気通信大学", "電通大", "UEC", "Denki Tsushin"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 901,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kyoto Institute of Technology",
+    "aliases": ["京都工芸繊維大学", "京都工繊", "KIT Kyoto"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 901,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Osaka University of Arts",
+    "aliases": ["大阪芸術大学", "大芸大"],
+    "country": "JP",
+    "domesticTag": null,
+    "qsRank": 1201,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "National Taiwan University",
+    "aliases": ["NTU", "台湾大学", "臺灣大學"],
+    "country": "TW",
+    "domesticTag": null,
+    "qsRank": 69,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Pohang University of Science and Technology",
+    "aliases": ["POSTECH", "포항공과대학교", "浦項工科大学"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 71,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Yonsei University",
+    "aliases": ["연세대학교", "延世大学"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 79,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Korea University",
+    "aliases": ["고려대학교", "高麗大学"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 79,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sungkyunkwan University",
+    "aliases": ["SKKU", "성균관대학교", "成均館大学"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 107,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Hanyang University",
+    "aliases": ["한양대학교", "漢陽大学"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 162,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Science and Technology of China",
+    "aliases": ["USTC", "中国科学技術大学", "中国科学技术大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 95,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Shanghai Jiao Tong University",
+    "aliases": ["SJTU", "上海交通大学", "上交大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 51,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Nanjing University",
+    "aliases": ["NJU", "南京大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 113,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Wuhan University",
+    "aliases": ["WHU", "武漢大学", "武汉大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 235,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Harbin Institute of Technology",
+    "aliases": ["HIT", "哈爾濱工業大学", "哈尔滨工业大学", "哈工大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 236,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sun Yat-sen University",
+    "aliases": ["SYSU", "中山大学", "中山大學"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 255,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tongji University",
+    "aliases": ["同済大学", "同济大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 262,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Université PSL",
+    "aliases": ["PSL University", "Paris Sciences et Lettres", "パリ科学・文学大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 55,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sorbonne University",
+    "aliases": ["Sorbonne", "パリ第一大学", "ソルボンヌ大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 59,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "École Polytechnique",
+    "aliases": ["Polytechnique", "l'X", "エコール・ポリテクニーク"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 61,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Heidelberg University",
+    "aliases": ["Ruprecht-Karls-Universität Heidelberg", "ハイデルベルク大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 87,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Humboldt University of Berlin",
+    "aliases": ["HU Berlin", "フンボルト大学ベルリン"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 121,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Munich",
+    "aliases": ["LMU München", "Universität München"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 59,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "RWTH Aachen University",
+    "aliases": ["RWTH Aachen", "アーヘン工科大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 100,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Free University of Berlin",
+    "aliases": ["FU Berlin", "Freie Universität Berlin", "ベルリン自由大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 113,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Hamburg",
+    "aliases": ["Universität Hamburg", "ハンブルク大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 240,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Utrecht University",
+    "aliases": ["UU", "ユトレヒト大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 91,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Leiden University",
+    "aliases": ["ライデン大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 99,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Wageningen University",
+    "aliases": ["WUR", "ワーヘニンゲン大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 71,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Erasmus University Rotterdam",
+    "aliases": ["EUR", "エラスムス大学ロッテルダム"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 207,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Lund University",
+    "aliases": ["ルンド大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 97,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Uppsala University",
+    "aliases": ["UU", "ウプサラ大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 103,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Stockholm University",
+    "aliases": ["ストックホルム大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 166,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "KTH Royal Institute of Technology",
+    "aliases": ["KTH", "王立工科大学", "スウェーデン王立工科大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 97,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Copenhagen",
+    "aliases": ["UCPH", "コペンハーゲン大学"],
+    "country": "DK",
+    "domesticTag": null,
+    "qsRank": 99,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Helsinki",
+    "aliases": ["ヘルシンキ大学"],
+    "country": "FI",
+    "domesticTag": null,
+    "qsRank": 109,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Aalto University",
+    "aliases": ["アールト大学"],
+    "country": "FI",
+    "domesticTag": null,
+    "qsRank": 116,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Oslo",
+    "aliases": ["UiO", "オスロ大学"],
+    "country": "NO",
+    "domesticTag": null,
+    "qsRank": 170,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Norwegian University of Science and Technology",
+    "aliases": ["NTNU", "ノルウェー科学技術大学"],
+    "country": "NO",
+    "domesticTag": null,
+    "qsRank": 280,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ghent University",
+    "aliases": ["UGent", "ゲント大学"],
+    "country": "BE",
+    "domesticTag": null,
+    "qsRank": 120,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Zurich",
+    "aliases": ["UZH", "チューリッヒ大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 100,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Geneva",
+    "aliases": ["UNIGE", "ジュネーブ大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 127,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Basel",
+    "aliases": ["Universität Basel", "バーゼル大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 151,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bern",
+    "aliases": ["Universität Bern", "ベルン大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 133,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Adelaide",
+    "aliases": ["UniAdelaide", "Adelaide", "アデレード大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 109,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Australian National University",
+    "aliases": ["ANU", "オーストラリア国立大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 30,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Western Australia",
+    "aliases": ["UWA", "西オーストラリア大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 72,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Auckland",
+    "aliases": ["UoA", "オークランド大学"],
+    "country": "NZ",
+    "domesticTag": null,
+    "qsRank": 68,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Victoria University of Wellington",
+    "aliases": ["VUW", "ヴィクトリア大学ウェリントン"],
+    "country": "NZ",
+    "domesticTag": null,
+    "qsRank": 244,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Otago",
+    "aliases": ["Otago", "オタゴ大学"],
+    "country": "NZ",
+    "domesticTag": null,
+    "qsRank": 206,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Michigan",
+    "aliases": ["UMich", "Michigan", "ミシガン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 24,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Northwestern University",
+    "aliases": ["Northwestern", "ノースウェスタン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 28,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Texas at Austin",
+    "aliases": ["UT Austin", "テキサス大学オースティン校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 67,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Wisconsin-Madison",
+    "aliases": ["UW-Madison", "ウィスコンシン大学マディソン校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 89,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign",
+    "aliases": ["UIUC", "イリノイ大学アーバナ・シャンペーン校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 65,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "aliases": ["Georgia Tech", "ジョージア工科大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 83,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of California, San Diego",
+    "aliases": ["UCSD", "UC San Diego", "カリフォルニア大学サンディエゴ校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 64,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Purdue University",
+    "aliases": ["Purdue", "パデュー大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 100,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ohio State University",
+    "aliases": ["OSU", "オハイオ州立大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 149,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Vanderbilt University",
+    "aliases": ["Vanderbilt", "ヴァンダービルト大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 200,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Rice University",
+    "aliases": ["Rice", "ライス大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 163,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Minnesota",
+    "aliases": ["UMN", "ミネソタ大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 137,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Colorado Boulder",
+    "aliases": ["CU Boulder", "コロラド大学ボルダー校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 186,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Boston University",
+    "aliases": ["BU", "ボストン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 117,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tufts University",
+    "aliases": ["Tufts", "タフツ大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 200,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Georgetown University",
+    "aliases": ["Georgetown", "ジョージタウン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 266,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "aliases": ["WashU", "セントルイス・ワシントン大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 151,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Rochester",
+    "aliases": ["UR", "Rochester", "ロチェスター大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 204,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Emory University",
+    "aliases": ["Emory", "エモリー大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 246,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Case Western Reserve University",
+    "aliases": ["CWRU", "ケースウェスタンリザーブ大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 231,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of California, Davis",
+    "aliases": ["UC Davis", "カリフォルニア大学デービス校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 166,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of California, Santa Barbara",
+    "aliases": ["UCSB", "カリフォルニア大学サンタバーバラ校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 149,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Washington",
+    "aliases": ["UW Seattle", "ワシントン大学シアトル"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 90,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Penn State University",
+    "aliases": ["PSU", "Pennsylvania State University", "ペンシルベニア州立大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 191,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Virginia",
+    "aliases": ["UVA", "バージニア大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 219,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "aliases": ["UNC", "ノースカロライナ大学チャペルヒル校"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 164,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Texas A&M University",
+    "aliases": ["TAMU", "テキサスA&M大学"],
+    "country": "US",
+    "domesticTag": null,
+    "qsRank": 189,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "McMaster University",
+    "aliases": ["McMaster", "マクマスター大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 189,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Alberta",
+    "aliases": ["UAlberta", "アルバータ大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 111,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Waterloo",
+    "aliases": ["Waterloo", "ウォータールー大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 154,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Montreal",
+    "aliases": ["UdeM", "Université de Montréal", "モントリオール大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 141,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Queen's University",
+    "aliases": ["Queen's", "クイーンズ大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 209,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Ottawa",
+    "aliases": ["uOttawa", "オタワ大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 237,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Simon Fraser University",
+    "aliases": ["SFU", "サイモン・フレーザー大学"],
+    "country": "CA",
+    "domesticTag": null,
+    "qsRank": 301,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Nottingham",
+    "aliases": ["Nottingham", "ノッティンガム大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 100,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Southampton",
+    "aliases": ["Southampton", "サウサンプトン大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 87,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Leeds",
+    "aliases": ["Leeds", "リーズ大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 76,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Sheffield",
+    "aliases": ["Sheffield", "シェフィールド大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 95,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Durham University",
+    "aliases": ["Durham", "ダラム大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 78,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Birmingham",
+    "aliases": ["Birmingham", "バーミンガム大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 84,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Exeter",
+    "aliases": ["Exeter", "エクセター大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 148,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Queen Mary University of London",
+    "aliases": ["QMUL", "Queen Mary", "クイーン・メアリー大学ロンドン"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 114,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Newcastle University",
+    "aliases": ["Newcastle", "ニューカッスル大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 152,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of St Andrews",
+    "aliases": ["St Andrews", "St. Andrews", "セント・アンドルーズ大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 100,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Cardiff University",
+    "aliases": ["Cardiff", "カーディフ大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 151,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Hong Kong Polytechnic University",
+    "aliases": ["PolyU", "香港理工大学", "香港理工大學"],
+    "country": "HK",
+    "domesticTag": null,
+    "qsRank": 57,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "City University of Hong Kong",
+    "aliases": ["CityU", "香港城市大学", "香港城市大學"],
+    "country": "HK",
+    "domesticTag": null,
+    "qsRank": 62,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "National Tsing Hua University",
+    "aliases": ["NTHU", "国立清華大学（台湾）", "清大"],
+    "country": "TW",
+    "domesticTag": null,
+    "qsRank": 179,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "National Cheng Kung University",
+    "aliases": ["NCKU", "国立成功大学", "成大"],
+    "country": "TW",
+    "domesticTag": null,
+    "qsRank": 245,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "National Yang Ming Chiao Tung University",
+    "aliases": ["NYCU", "国立陽明交通大学", "交通大学"],
+    "country": "TW",
+    "domesticTag": null,
+    "qsRank": 249,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universiti Malaya",
+    "aliases": ["UM", "マラヤ大学"],
+    "country": "MY",
+    "domesticTag": null,
+    "qsRank": 65,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universiti Teknologi Malaysia",
+    "aliases": ["UTM", "マレーシア工科大学"],
+    "country": "MY",
+    "domesticTag": null,
+    "qsRank": 235,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Indonesia",
+    "aliases": ["UI", "インドネシア大学"],
+    "country": "ID",
+    "domesticTag": null,
+    "qsRank": 237,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Bandung Institute of Technology",
+    "aliases": ["ITB", "バンドン工科大学"],
+    "country": "ID",
+    "domesticTag": null,
+    "qsRank": 265,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Chulalongkorn University",
+    "aliases": ["CU", "チュラーロンコーン大学"],
+    "country": "TH",
+    "domesticTag": null,
+    "qsRank": 212,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Mahidol University",
+    "aliases": ["MU", "マヒドン大学"],
+    "country": "TH",
+    "domesticTag": null,
+    "qsRank": 289,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "aliases": ["IIT Bombay", "IITB", "インド工科大学ボンベイ校"],
+    "country": "IN",
+    "domesticTag": null,
+    "qsRank": 118,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "aliases": ["IIT Delhi", "IITD", "インド工科大学デリー校"],
+    "country": "IN",
+    "domesticTag": null,
+    "qsRank": 150,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "aliases": ["IIT Madras", "IITM", "インド工科大学マドラス校"],
+    "country": "IN",
+    "domesticTag": null,
+    "qsRank": 227,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Indian Institute of Science",
+    "aliases": ["IISc", "インド科学大学院大学"],
+    "country": "IN",
+    "domesticTag": null,
+    "qsRank": 211,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "aliases": ["IIT Kharagpur", "IITKGP"],
+    "country": "IN",
+    "domesticTag": null,
+    "qsRank": 222,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Cape Town",
+    "aliases": ["UCT", "ケープタウン大学"],
+    "country": "ZA",
+    "domesticTag": null,
+    "qsRank": 237,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of the Witwatersrand",
+    "aliases": ["Wits", "ウィットウォータースランド大学"],
+    "country": "ZA",
+    "domesticTag": null,
+    "qsRank": 295,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "São Paulo University",
+    "aliases": ["USP", "Universidade de São Paulo", "サンパウロ大学"],
+    "country": "BR",
+    "domesticTag": null,
+    "qsRank": 102,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Buenos Aires",
+    "aliases": ["UBA", "Universidad de Buenos Aires", "ブエノスアイレス大学"],
+    "country": "AR",
+    "domesticTag": null,
+    "qsRank": 66,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universidad Nacional Autónoma de México",
+    "aliases": ["UNAM", "メキシコ国立自治大学"],
+    "country": "MX",
+    "domesticTag": null,
+    "qsRank": 105,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Moscow State University",
+    "aliases": ["MSU", "Lomonosov Moscow State University", "モスクワ国立大学"],
+    "country": "RU",
+    "domesticTag": null,
+    "qsRank": 87,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "St. Petersburg State University",
+    "aliases": ["SPbSU", "サンクトペテルブルク国立大学"],
+    "country": "RU",
+    "domesticTag": null,
+    "qsRank": 281,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Eindhoven University of Technology",
+    "aliases": ["TU/e", "TU Eindhoven", "アイントホーフェン工科大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 121,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Vrije Universiteit Amsterdam",
+    "aliases": ["VU Amsterdam", "アムステルダム自由大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 225,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Université Catholique de Louvain",
+    "aliases": ["UCLouvain", "ルーヴァン・カトリック大学"],
+    "country": "BE",
+    "domesticTag": null,
+    "qsRank": 201,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universidade de Lisboa",
+    "aliases": ["ULisboa", "リスボン大学"],
+    "country": "PT",
+    "domesticTag": null,
+    "qsRank": 251,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Porto",
+    "aliases": ["UPorto", "ポルト大学"],
+    "country": "PT",
+    "domesticTag": null,
+    "qsRank": 294,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Complutense University of Madrid",
+    "aliases": ["UCM", "マドリード・コンプルテンセ大学"],
+    "country": "ES",
+    "domesticTag": null,
+    "qsRank": 202,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Autonomous University of Madrid",
+    "aliases": ["UAM", "マドリード自治大学"],
+    "country": "ES",
+    "domesticTag": null,
+    "qsRank": 198,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Barcelona",
+    "aliases": ["UB", "バルセロナ大学"],
+    "country": "ES",
+    "domesticTag": null,
+    "qsRank": 147,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bologna",
+    "aliases": ["UNIBO", "ボローニャ大学"],
+    "country": "IT",
+    "domesticTag": null,
+    "qsRank": 154,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sapienza University of Rome",
+    "aliases": ["Sapienza", "ローマ・ラ・サピエンツァ大学"],
+    "country": "IT",
+    "domesticTag": null,
+    "qsRank": 141,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Politecnico di Milano",
+    "aliases": ["PoliMi", "ミラノ工科大学"],
+    "country": "IT",
+    "domesticTag": null,
+    "qsRank": 123,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Milan",
+    "aliases": ["UNIMI", "ミラノ大学"],
+    "country": "IT",
+    "domesticTag": null,
+    "qsRank": 256,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Vienna",
+    "aliases": ["Universität Wien", "ウィーン大学"],
+    "country": "AT",
+    "domesticTag": null,
+    "qsRank": 132,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Vienna University of Technology",
+    "aliases": ["TU Wien", "ウィーン工科大学"],
+    "country": "AT",
+    "domesticTag": null,
+    "qsRank": 163,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Charles University",
+    "aliases": ["CUNI", "カレル大学", "プラハ・カレル大学"],
+    "country": "CZ",
+    "domesticTag": null,
+    "qsRank": 220,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Warsaw",
+    "aliases": ["UW", "ワルシャワ大学"],
+    "country": "PL",
+    "domesticTag": null,
+    "qsRank": 284,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Jagiellonian University",
+    "aliases": ["UJ", "ヤゲウォ大学"],
+    "country": "PL",
+    "domesticTag": null,
+    "qsRank": 282,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Gothenburg",
+    "aliases": ["GU", "ヨーテボリ大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 237,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Aarhus University",
+    "aliases": ["AU", "オーフス大学"],
+    "country": "DK",
+    "domesticTag": null,
+    "qsRank": 148,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Technical University of Denmark",
+    "aliases": ["DTU", "デンマーク工科大学"],
+    "country": "DK",
+    "domesticTag": null,
+    "qsRank": 167,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Groningen",
+    "aliases": ["RUG", "フローニンゲン大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 128,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Maastricht University",
+    "aliases": ["UM", "マーストリヒト大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 238,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Radboud University",
+    "aliases": ["RU", "ラドバウド大学"],
+    "country": "NL",
+    "domesticTag": null,
+    "qsRank": 201,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Lausanne",
+    "aliases": ["UNIL", "ローザンヌ大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 186,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Fribourg",
+    "aliases": ["Unifr", "フリブール大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of St. Gallen",
+    "aliases": ["HSG", "ザンクト・ガレン大学"],
+    "country": "CH",
+    "domesticTag": null,
+    "qsRank": 301,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Aberdeen",
+    "aliases": ["Aberdeen", "アバディーン大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 257,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Loughborough University",
+    "aliases": ["Loughborough", "ラフバラ大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 167,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bath",
+    "aliases": ["Bath", "バース大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 178,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Lancaster University",
+    "aliases": ["Lancaster", "ランカスター大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 151,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of York",
+    "aliases": ["York", "ヨーク大学（英国）"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 178,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Reading",
+    "aliases": ["Reading", "レディング大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 246,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Leicester",
+    "aliases": ["Leicester", "レスター大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 290,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Liverpool",
+    "aliases": ["Liverpool", "リバプール大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 175,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Sussex",
+    "aliases": ["Sussex", "サセックス大学"],
+    "country": "UK",
+    "domesticTag": null,
+    "qsRank": 298,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Macquarie University",
+    "aliases": ["MQ", "マッコーリー大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 137,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "RMIT University",
+    "aliases": ["RMIT", "RMITメルボルン大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 212,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Technology Sydney",
+    "aliases": ["UTS", "シドニー工科大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 133,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Deakin University",
+    "aliases": ["Deakin", "ディーキン大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 291,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Flinders University",
+    "aliases": ["Flinders", "フリンダース大学"],
+    "country": "AU",
+    "domesticTag": null,
+    "qsRank": 461,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Canterbury",
+    "aliases": ["UC", "カンタベリー大学"],
+    "country": "NZ",
+    "domesticTag": null,
+    "qsRank": 257,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Massey University",
+    "aliases": ["Massey", "マッセイ大学"],
+    "country": "NZ",
+    "domesticTag": null,
+    "qsRank": 491,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tel Aviv University",
+    "aliases": ["TAU", "テルアビブ大学"],
+    "country": "IL",
+    "domesticTag": null,
+    "qsRank": 214,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Hebrew University of Jerusalem",
+    "aliases": ["HUJI", "エルサレム・ヘブライ大学"],
+    "country": "IL",
+    "domesticTag": null,
+    "qsRank": 164,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Technion – Israel Institute of Technology",
+    "aliases": ["Technion", "テクニオン・イスラエル工科大学"],
+    "country": "IL",
+    "domesticTag": null,
+    "qsRank": 180,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Bogazici University",
+    "aliases": ["BOUN", "ボアジチ大学"],
+    "country": "TR",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Middle East Technical University",
+    "aliases": ["METU", "ODTÜ", "中東工科大学"],
+    "country": "TR",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "King Abdulaziz University",
+    "aliases": ["KAU", "キング・アブドゥルアジーズ大学"],
+    "country": "SA",
+    "domesticTag": null,
+    "qsRank": 145,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "King Abdullah University of Science and Technology",
+    "aliases": ["KAUST", "キング・アブドゥッラー科学技術大学"],
+    "country": "SA",
+    "domesticTag": null,
+    "qsRank": 175,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "King Fahd University of Petroleum and Minerals",
+    "aliases": ["KFUPM", "キング・ファハド石油鉱物大学"],
+    "country": "SA",
+    "domesticTag": null,
+    "qsRank": 226,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Cairo University",
+    "aliases": ["CU", "カイロ大学"],
+    "country": "EG",
+    "domesticTag": null,
+    "qsRank": 551,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "American University in Cairo",
+    "aliases": ["AUC", "カイロ・アメリカン大学"],
+    "country": "EG",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Pretoria",
+    "aliases": ["UP", "プレトリア大学"],
+    "country": "ZA",
+    "domesticTag": null,
+    "qsRank": 474,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Stellenbosch University",
+    "aliases": ["SU", "ステレンボッシュ大学"],
+    "country": "ZA",
+    "domesticTag": null,
+    "qsRank": 395,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Nairobi",
+    "aliases": ["UoN", "ナイロビ大学"],
+    "country": "KE",
+    "domesticTag": null,
+    "qsRank": 851,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Pontificia Universidad Católica de Chile",
+    "aliases": ["UC Chile", "PUC Chile", "チリ・カトリック大学"],
+    "country": "CL",
+    "domesticTag": null,
+    "qsRank": 125,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Chile",
+    "aliases": ["UCH", "Universidad de Chile", "チリ大学"],
+    "country": "CL",
+    "domesticTag": null,
+    "qsRank": 174,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "UNICAMP",
+    "aliases": ["University of Campinas", "Universidade Estadual de Campinas", "カンピーナス州立大学"],
+    "country": "BR",
+    "domesticTag": null,
+    "qsRank": 170,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universidade Federal do Rio de Janeiro",
+    "aliases": ["UFRJ", "リオデジャネイロ連邦大学"],
+    "country": "BR",
+    "domesticTag": null,
+    "qsRank": 221,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Teknologi Petronas",
+    "aliases": ["UTP", "ペトロナス技術大学"],
+    "country": "MY",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universiti Putra Malaysia",
+    "aliases": ["UPM", "マレーシア・プトラ大学"],
+    "country": "MY",
+    "domesticTag": null,
+    "qsRank": 147,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universiti Kebangsaan Malaysia",
+    "aliases": ["UKM", "マレーシア国民大学"],
+    "country": "MY",
+    "domesticTag": null,
+    "qsRank": 197,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universiti Sains Malaysia",
+    "aliases": ["USM", "マレーシア科学大学"],
+    "country": "MY",
+    "domesticTag": null,
+    "qsRank": 138,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Universitas Gadjah Mada",
+    "aliases": ["UGM", "ガジャ・マダ大学"],
+    "country": "ID",
+    "domesticTag": null,
+    "qsRank": 248,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "King Mongkut's University of Technology Thonburi",
+    "aliases": ["KMUTT", "キング・モンクット工科大学トンブリ"],
+    "country": "TH",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Asian Institute of Technology",
+    "aliases": ["AIT", "アジア工科大学院"],
+    "country": "TH",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of the Philippines",
+    "aliases": ["UP", "フィリピン大学"],
+    "country": "PH",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ateneo de Manila University",
+    "aliases": ["Ateneo", "アテネオ・デ・マニラ大学"],
+    "country": "PH",
+    "domesticTag": null,
+    "qsRank": 951,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Vietnam National University, Hanoi",
+    "aliases": ["VNU", "ベトナム国家大学ハノイ"],
+    "country": "VN",
+    "domesticTag": null,
+    "qsRank": 1001,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Warsaw",
+    "aliases": ["UW", "ワルシャワ大学"],
+    "country": "PL",
+    "domesticTag": null,
+    "qsRank": 284,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Beihang University",
+    "aliases": ["BUAA", "北京航空航天大学", "北航"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 357,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Beijing Institute of Technology",
+    "aliases": ["BIT", "北京理工大学", "北理工"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 395,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Renmin University of China",
+    "aliases": ["RUC", "中国人民大学", "人民大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 397,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Xiamen University",
+    "aliases": ["XMU", "厦門大学", "厦门大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 374,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Huazhong University of Science and Technology",
+    "aliases": ["HUST", "華中科技大学", "华中科技大学", "华科"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 275,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Southeast University",
+    "aliases": ["SEU", "東南大学", "东南大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 300,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Xi'an Jiaotong University",
+    "aliases": ["XJTU", "西安交通大学", "西交大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 302,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Northwestern Polytechnical University",
+    "aliases": ["NPU", "西北工業大学", "西工大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Central South University",
+    "aliases": ["CSU", "中南大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "China Agricultural University",
+    "aliases": ["CAU", "中国農業大学", "中国农业大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sichuan University",
+    "aliases": ["SCU", "四川大学", "川大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Science and Technology Beijing",
+    "aliases": ["USTB", "北京科技大学", "北科大"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Dalian University of Technology",
+    "aliases": ["DUT", "大連理工大学", "大连理工大学", "大工"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 334,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Shandong University",
+    "aliases": ["SDU", "山東大学", "山东大学"],
+    "country": "CN",
+    "domesticTag": null,
+    "qsRank": 381,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Science and Technology",
+    "aliases": ["UST", "한국과학기술원"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 295,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ulsan National Institute of Science and Technology",
+    "aliases": ["UNIST", "울산과학기술원"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 241,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Daegu Gyeongbuk Institute of Science and Technology",
+    "aliases": ["DGIST", "대구경북과학기술원"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ewha Womans University",
+    "aliases": ["Ewha", "이화여자대학교", "梨花女子大学"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 325,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sookmyung Women's University",
+    "aliases": ["숙명여자대학교"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 951,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University College Dublin",
+    "aliases": ["UCD", "ダブリン大学カレッジ"],
+    "country": "IE",
+    "domesticTag": null,
+    "qsRank": 181,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Trinity College Dublin",
+    "aliases": ["TCD", "ダブリン・トリニティ・カレッジ"],
+    "country": "IE",
+    "domesticTag": null,
+    "qsRank": 88,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Galway",
+    "aliases": ["NUIG", "ゴールウェイ大学"],
+    "country": "IE",
+    "domesticTag": null,
+    "qsRank": 253,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Yonsei University",
+    "aliases": ["연세대학교", "延世大学校"],
+    "country": "KR",
+    "domesticTag": null,
+    "qsRank": 79,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Gothenburg",
+    "aliases": ["GU", "Göteborgs universitet", "ヨーテボリ大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 237,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Chalmers University of Technology",
+    "aliases": ["Chalmers", "チャルマース工科大学"],
+    "country": "SE",
+    "domesticTag": null,
+    "qsRank": 249,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Turku",
+    "aliases": ["UTU", "トゥルク大学"],
+    "country": "FI",
+    "domesticTag": null,
+    "qsRank": 351,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tampere University",
+    "aliases": ["TAU", "タンペレ大学"],
+    "country": "FI",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bergen",
+    "aliases": ["UiB", "ベルゲン大学"],
+    "country": "NO",
+    "domesticTag": null,
+    "qsRank": 276,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Trondheim",
+    "aliases": ["NTNU", "トロンハイム大学"],
+    "country": "NO",
+    "domesticTag": null,
+    "qsRank": 280,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Tartu",
+    "aliases": ["UT", "タルトゥ大学"],
+    "country": "EE",
+    "domesticTag": null,
+    "qsRank": 301,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Tallinn University of Technology",
+    "aliases": ["TalTech", "タリン工科大学"],
+    "country": "EE",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Ljubljana",
+    "aliases": ["UL", "リュブリャナ大学"],
+    "country": "SI",
+    "domesticTag": null,
+    "qsRank": 401,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Vilnius University",
+    "aliases": ["VU", "ヴィリニュス大学"],
+    "country": "LT",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Latvia",
+    "aliases": ["LU", "ラトビア大学"],
+    "country": "LV",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Kyiv Polytechnic Institute",
+    "aliases": ["KPI", "Igor Sikorsky KPI", "キーウ工科大学"],
+    "country": "UA",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Budapest University of Technology and Economics",
+    "aliases": ["BME", "ブダペスト工科経済大学"],
+    "country": "HU",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Eötvös Loránd University",
+    "aliases": ["ELTE", "エトヴェシュ・ロラーンド大学"],
+    "country": "HU",
+    "domesticTag": null,
+    "qsRank": 501,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "AGH University of Science and Technology",
+    "aliases": ["AGH", "AGH大学"],
+    "country": "PL",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Warsaw University of Technology",
+    "aliases": ["PW", "ワルシャワ工科大学"],
+    "country": "PL",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Brno University of Technology",
+    "aliases": ["BUT", "ブルノ工科大学"],
+    "country": "CZ",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Slovak University of Technology in Bratislava",
+    "aliases": ["STU", "ブラチスラバ・スロバキア工科大学"],
+    "country": "SK",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bucharest",
+    "aliases": ["UB", "ブカレスト大学"],
+    "country": "RO",
+    "domesticTag": null,
+    "qsRank": 901,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sofia University",
+    "aliases": ["SU", "ソフィア大学"],
+    "country": "BG",
+    "domesticTag": null,
+    "qsRank": 801,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Belgrade",
+    "aliases": ["UB", "ベオグラード大学"],
+    "country": "RS",
+    "domesticTag": null,
+    "qsRank": 451,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Zagreb",
+    "aliases": ["UNIZG", "ザグレブ大学"],
+    "country": "HR",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Athens",
+    "aliases": ["NKUA", "アテネ国立工科大学"],
+    "country": "GR",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "aliases": ["AUTH", "テッサロニキ・アリストテレス大学"],
+    "country": "GR",
+    "domesticTag": null,
+    "qsRank": 601,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Bonn University",
+    "aliases": ["Rheinische Friedrich-Wilhelms-Universität Bonn", "ボン大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 201,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Tübingen",
+    "aliases": ["Eberhard Karls Universität Tübingen", "チュービンゲン大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 193,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Freiburg",
+    "aliases": ["Albert-Ludwigs-Universität Freiburg", "フライブルク大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 197,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Frankfurt",
+    "aliases": ["Goethe University Frankfurt", "フランクフルト大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 242,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Cologne",
+    "aliases": ["Universität zu Köln", "ケルン大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 280,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Karlsruhe Institute of Technology",
+    "aliases": ["KIT", "カールスルーエ工科大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 119,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Hannover University",
+    "aliases": ["Leibniz University Hannover", "LUH", "ハノーファー大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 387,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Ruhr University Bochum",
+    "aliases": ["RUB", "ボーフム大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 355,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Göttingen",
+    "aliases": ["Georg-August-Universität Göttingen", "ゲッティンゲン大学"],
+    "country": "DE",
+    "domesticTag": null,
+    "qsRank": 298,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Université Paris Cité",
+    "aliases": ["UPC", "パリ・シテ大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 182,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Aix-Marseille University",
+    "aliases": ["AMU", "エクス＝マルセイユ大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 297,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Strasbourg",
+    "aliases": ["Unistra", "ストラスブール大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 232,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Grenoble Alpes University",
+    "aliases": ["UGA", "グルノーブル・アルプ大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 282,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Sciences Po",
+    "aliases": ["Sciences Po Paris", "パリ政治学院"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 273,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "HEC Paris",
+    "aliases": ["HEC", "パリ経営大学院"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 101,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "INSEAD",
+    "aliases": ["インシアード"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 101,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Lyon",
+    "aliases": ["Université Claude Bernard Lyon 1", "リヨン大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 296,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Bordeaux",
+    "aliases": ["ボルドー大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 301,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Université Côte d'Azur",
+    "aliases": ["UCA", "ニース・コートダジュール大学"],
+    "country": "FR",
+    "domesticTag": null,
+    "qsRank": 351,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Antwerp",
+    "aliases": ["UAntwerpen", "アントワープ大学"],
+    "country": "BE",
+    "domesticTag": null,
+    "qsRank": 284,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "Vrije Universiteit Brussel",
+    "aliases": ["VUB", "ブリュッセル自由大学"],
+    "country": "BE",
+    "domesticTag": null,
+    "qsRank": 253,
+    "tier": "B",
+    "updatedYear": 2025
+  },
+  {
+    "name": "University of Liège",
+    "aliases": ["ULiège", "リエージュ大学"],
+    "country": "BE",
+    "domesticTag": null,
+    "qsRank": 351,
+    "tier": "B",
+    "updatedYear": 2025
+  }
+]

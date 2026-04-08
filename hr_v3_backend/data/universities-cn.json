@@ -1,0 +1,1262 @@
+[
+  {
+    "name": "清华大学",
+    "aliases": ["Tsinghua University"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 20,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京大学",
+    "aliases": ["Peking University", "PKU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 17,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "复旦大学",
+    "aliases": ["Fudan University"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 39,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海交通大学",
+    "aliases": ["Shanghai Jiao Tong University", "SJTU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 51,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "浙江大学",
+    "aliases": ["Zhejiang University", "ZJU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 47,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国科学技术大学",
+    "aliases": ["University of Science and Technology of China", "USTC"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 53,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京大学",
+    "aliases": ["Nanjing University", "NJU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 133,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华中科技大学",
+    "aliases": ["Huazhong University of Science and Technology", "HUST"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 275,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "武汉大学",
+    "aliases": ["Wuhan University", "WHU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 261,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西安交通大学",
+    "aliases": ["Xi'an Jiaotong University", "XJTU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 325,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "哈尔滨工业大学",
+    "aliases": ["Harbin Institute of Technology", "HIT"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 171,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中山大学",
+    "aliases": ["Sun Yat-sen University", "SYSU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 206,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京航空航天大学",
+    "aliases": ["Beihang University", "BUAA", "Beijing University of Aeronautics and Astronautics"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 383,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "四川大学",
+    "aliases": ["Sichuan University", "SCU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 371,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "同济大学",
+    "aliases": ["Tongji University"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 192,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "东南大学",
+    "aliases": ["Southeast University", "SEU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 293,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京理工大学",
+    "aliases": ["Beijing Institute of Technology", "BIT"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 361,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "天津大学",
+    "aliases": ["Tianjin University", "TJU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 241,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南开大学",
+    "aliases": ["Nankai University", "NKU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 314,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华南理工大学",
+    "aliases": ["South China University of Technology", "SCUT"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 367,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "大连理工大学",
+    "aliases": ["Dalian University of Technology", "DUT"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 341,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "吉林大学",
+    "aliases": ["Jilin University", "JLU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 285,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "山东大学",
+    "aliases": ["Shandong University", "SDU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 351,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中南大学",
+    "aliases": ["Central South University", "CSU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 392,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "厦门大学",
+    "aliases": ["Xiamen University", "XMU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 266,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "电子科技大学",
+    "aliases": ["University of Electronic Science and Technology of China", "UESTC"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 439,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "湖南大学",
+    "aliases": ["Hunan University", "HNU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 451,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "重庆大学",
+    "aliases": ["Chongqing University", "CQU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 471,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京师范大学",
+    "aliases": ["Beijing Normal University", "BNU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 296,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国人民大学",
+    "aliases": ["Renmin University of China", "RUC"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 431,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "兰州大学",
+    "aliases": ["Lanzhou University", "LZU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 421,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "国防科技大学",
+    "aliases": ["National University of Defense Technology", "NUDT"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": null,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国农业大学",
+    "aliases": ["China Agricultural University", "CAU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 461,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西北工业大学",
+    "aliases": ["Northwestern Polytechnical University", "NPU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": 481,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "东北大学",
+    "aliases": ["Northeastern University", "NEU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": null,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国海洋大学",
+    "aliases": ["Ocean University of China", "OUC"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": null,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中央民族大学",
+    "aliases": ["Minzu University of China", "MUC", "Central University for Nationalities"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": null,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华东师范大学",
+    "aliases": ["East China Normal University", "ECNU"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": null,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西北农林科技大学",
+    "aliases": ["Northwest A&F University", "NWAFU", "Northwest Agriculture and Forestry University"],
+    "country": "CN",
+    "domesticTag": "985",
+    "qsRank": null,
+    "tier": "S",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京交通大学",
+    "aliases": ["Beijing Jiaotong University", "BJTU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京工业大学",
+    "aliases": ["Beijing University of Technology", "BJUT"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京科技大学",
+    "aliases": ["University of Science and Technology Beijing", "USTB"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京化工大学",
+    "aliases": ["Beijing University of Chemical Technology", "BUCT"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京邮电大学",
+    "aliases": ["Beijing University of Posts and Telecommunications", "BUPT"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京林业大学",
+    "aliases": ["Beijing Forestry University", "BFU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "首都医科大学",
+    "aliases": ["Capital Medical University", "CMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国地质大学（北京）",
+    "aliases": ["China University of Geosciences (Beijing)", "CUG Beijing"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国矿业大学（北京）",
+    "aliases": ["China University of Mining and Technology (Beijing)", "CUMTB"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国石油大学（北京）",
+    "aliases": ["China University of Petroleum (Beijing)", "CUPB"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京外国语大学",
+    "aliases": ["Beijing Foreign Studies University", "BFSU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京语言大学",
+    "aliases": ["Beijing Language and Culture University", "BLCU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国传媒大学",
+    "aliases": ["Communication University of China", "CUC"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中央财经大学",
+    "aliases": ["Central University of Finance and Economics", "CUFE"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "对外经济贸易大学",
+    "aliases": ["University of International Business and Economics", "UIBE"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京体育大学",
+    "aliases": ["Beijing Sport University", "BSU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中央音乐学院",
+    "aliases": ["Central Conservatory of Music", "CCOM"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华东理工大学",
+    "aliases": ["East China University of Science and Technology", "ECUST"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "东华大学",
+    "aliases": ["Donghua University", "DHU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海财经大学",
+    "aliases": ["Shanghai University of Finance and Economics", "SUFE"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海大学",
+    "aliases": ["Shanghai University", "SHU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "天津医科大学",
+    "aliases": ["Tianjin Medical University", "TMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "河海大学",
+    "aliases": ["Hohai University", "HHU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "江南大学",
+    "aliases": ["Jiangnan University", "JNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京农业大学",
+    "aliases": ["Nanjing Agricultural University", "NAU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京航空航天大学",
+    "aliases": ["Nanjing University of Aeronautics and Astronautics", "NUAA"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京理工大学",
+    "aliases": ["Nanjing University of Science and Technology", "NJUST"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京林业大学",
+    "aliases": ["Nanjing Forestry University", "NJFU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国药科大学",
+    "aliases": ["China Pharmaceutical University", "CPU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国矿业大学",
+    "aliases": ["China University of Mining and Technology", "CUMT"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京师范大学",
+    "aliases": ["Nanjing Normal University", "NNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "武汉理工大学",
+    "aliases": ["Wuhan University of Technology", "WUT"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国地质大学（武汉）",
+    "aliases": ["China University of Geosciences (Wuhan)", "CUG Wuhan"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华中农业大学",
+    "aliases": ["Huazhong Agricultural University", "HZAU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中南财经政法大学",
+    "aliases": ["Zhongnan University of Economics and Law", "ZUEL"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华中师范大学",
+    "aliases": ["Central China Normal University", "CCNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国石油大学（华东）",
+    "aliases": ["China University of Petroleum (East China)", "UPC"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华南师范大学",
+    "aliases": ["South China Normal University", "SCNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "暨南大学",
+    "aliases": ["Jinan University", "JNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "大连海事大学",
+    "aliases": ["Dalian Maritime University", "DMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "辽宁大学",
+    "aliases": ["Liaoning University", "LNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国医科大学",
+    "aliases": ["China Medical University", "CMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "哈尔滨工程大学",
+    "aliases": ["Harbin Engineering University", "HEU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "东北林业大学",
+    "aliases": ["Northeast Forestry University", "NEFU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "东北农业大学",
+    "aliases": ["Northeast Agricultural University", "NEAU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "东北师范大学",
+    "aliases": ["Northeast Normal University", "NENU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "延边大学",
+    "aliases": ["Yanbian University", "YBU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西北大学",
+    "aliases": ["Northwest University", "NWU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "陕西师范大学",
+    "aliases": ["Shaanxi Normal University", "SNNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "长安大学",
+    "aliases": ["Chang'an University", "CHD"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西安电子科技大学",
+    "aliases": ["Xidian University", "XDU", "Xi'an University of Electronic Science and Technology"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西南交通大学",
+    "aliases": ["Southwest Jiaotong University", "SWJTU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西南大学",
+    "aliases": ["Southwest University", "SWU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "合肥工业大学",
+    "aliases": ["Hefei University of Technology", "HFUT"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "安徽大学",
+    "aliases": ["Anhui University", "AHU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "云南大学",
+    "aliases": ["Yunnan University", "YNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "内蒙古大学",
+    "aliases": ["Inner Mongolia University", "IMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "新疆大学",
+    "aliases": ["Xinjiang University", "XJU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "石河子大学",
+    "aliases": ["Shihezi University", "SHU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "宁夏大学",
+    "aliases": ["Ningxia University", "NXU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "贵州大学",
+    "aliases": ["Guizhou University", "GZU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "广西大学",
+    "aliases": ["Guangxi University", "GXU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "海南大学",
+    "aliases": ["Hainan University", "HNU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "青海大学",
+    "aliases": ["Qinghai University", "QHU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西藏大学",
+    "aliases": ["Tibet University", "UTibet"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "福州大学",
+    "aliases": ["Fuzhou University", "FZU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南昌大学",
+    "aliases": ["Nanchang University", "NCU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "郑州大学",
+    "aliases": ["Zhengzhou University", "ZZU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "湘潭大学",
+    "aliases": ["Xiangtan University", "XTU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "第三军医大学",
+    "aliases": ["Army Medical University", "Third Military Medical University", "TMMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "第二军医大学",
+    "aliases": ["Naval Medical University", "Second Military Medical University", "SMMU"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国政法大学",
+    "aliases": ["China University of Political Science and Law", "CUPL"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中央美术学院",
+    "aliases": ["Central Academy of Fine Arts", "CAFA"],
+    "country": "CN",
+    "domesticTag": "211",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国科学院大学",
+    "aliases": ["University of Chinese Academy of Sciences", "UCAS"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南方科技大学",
+    "aliases": ["Southern University of Science and Technology", "SUSTech"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": 306,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "首都师范大学",
+    "aliases": ["Capital Normal University", "CNU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "北京协和医学院",
+    "aliases": ["Peking Union Medical College", "PUMC"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中央戏剧学院",
+    "aliases": ["Central Academy of Drama", "CAD"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国音乐学院",
+    "aliases": ["China Conservatory of Music", "CCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海海洋大学",
+    "aliases": ["Shanghai Ocean University", "SHOU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海中医药大学",
+    "aliases": ["Shanghai University of Traditional Chinese Medicine", "SHUTCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海音乐学院",
+    "aliases": ["Shanghai Conservatory of Music", "SHCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海体育大学",
+    "aliases": ["Shanghai University of Sport", "SUS"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "上海科技大学",
+    "aliases": ["ShanghaiTech University", "ShanghaiTech"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京信息工程大学",
+    "aliases": ["Nanjing University of Information Science and Technology", "NUIST"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京邮电大学",
+    "aliases": ["Nanjing University of Posts and Telecommunications", "NJUPT"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京中医药大学",
+    "aliases": ["Nanjing University of Chinese Medicine", "NJUCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "南京医科大学",
+    "aliases": ["Nanjing Medical University", "NMU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "中国美术学院",
+    "aliases": ["China Academy of Art", "CAA"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "宁波大学",
+    "aliases": ["Ningbo University", "NBU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "天津工业大学",
+    "aliases": ["Tianjin Polytechnic University", "TJPU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "天津中医药大学",
+    "aliases": ["Tianjin University of Traditional Chinese Medicine", "TUTCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "华南农业大学",
+    "aliases": ["South China Agricultural University", "SCAU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "广州医科大学",
+    "aliases": ["Guangzhou Medical University", "GMU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "广州中医药大学",
+    "aliases": ["Guangzhou University of Chinese Medicine", "GZUCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "河南大学",
+    "aliases": ["Henan University", "HNU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "山西大学",
+    "aliases": ["Shanxi University", "SXU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "成都理工大学",
+    "aliases": ["Chengdu University of Technology", "CDUT"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "西南石油大学",
+    "aliases": ["Southwest Petroleum University", "SWPU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "成都中医药大学",
+    "aliases": ["Chengdu University of Traditional Chinese Medicine", "CDUTCM"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  },
+  {
+    "name": "外交学院",
+    "aliases": ["China Foreign Affairs University", "CFAU"],
+    "country": "CN",
+    "domesticTag": "双一流",
+    "qsRank": null,
+    "tier": "A",
+    "updatedYear": 2025
+  }
+]

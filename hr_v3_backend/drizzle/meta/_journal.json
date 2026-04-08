@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772088410569,
+      "tag": "0000_deep_phil_sheldon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772329563137,
+      "tag": "0001_greedy_lady_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772330300675,
+      "tag": "0002_woozy_tombstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772540484095,
+      "tag": "0003_open_mordo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1775547852714,
+      "tag": "0004_aberrant_kabuki",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1775550890784,
+      "tag": "0005_dusty_wildside",
+      "breakpoints": true
+    }
+  ]
+}
